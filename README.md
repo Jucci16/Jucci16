@@ -6,9 +6,7 @@ I am a software developer that cares about scalability and speed. I have multipl
 
 🌱 Currently, I'm honing my skills in Rust, and you can often find me soldering components for custom keyboards.
 
-🛠️ In my toolbox, you'll find proficiency in JavaScript, TypeScript, React, Python, and I'm constantly learning and adapting to stay on the cutting edge.
-
-💼 During my professional journey, I've contributed to projects like [Mention Notable Projects], where I [Brief Description of Your Contributions].
+🛠️ In my toolbox, you'll find proficiency in .Net, JavaScript, TypeScript, React, Python, and I'm constantly learning and adapting to stay on the cutting edge.
 
 📫 Feel free to reach out to me for personal or business matters. Whether it's coding, discussing the latest tech trends, or just grabbing a virtual coffee, I'm always up for interesting conversations.
 
